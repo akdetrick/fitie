@@ -2,7 +2,7 @@
   "name": "fitie",
   "version": "1.0.0",
   "description": "An object-fit polyfill for Internet Explorer",
-  "main": "index.js",
+  "main": "dist/fitie.js",
   "scripts": {
     "build": "gulp",
     "lint": "eslint . --ignore-path .eslintignore",
